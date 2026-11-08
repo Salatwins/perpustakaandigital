@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [The Tokyo Zodiac Murders](ebook/The Tokyo Zodiac Murders.pdf) - Keigo Higashino (2020)
 8. [Black Showman dan Pembunuhan di Kota Tak Bernama](ebook/Black Showman dan Pembunuhan di Kota Tak Bernama.pdf) - Keigo Higashino (2021)
 9. [Platina Data](ebook/Platina Data.pdf) - Keigo Higashino (2025)
-10. [No Longer Human](ebook/No longer Human.pdf) - Osamu Dazai (2026)
+10. [No Longer Human](ebook/No Longer Human.pdf) - Osamu Dazai (2026)
 
 *Powered by GitHub Pages*
