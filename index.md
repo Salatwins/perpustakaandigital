@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Black Showman dan Pembunuhan di Kota Tak Bernama](ebook/Black Showman dan Pembunuhan di Kota Tak Bernama.pdf) - Keigo Higashino (2021)
 9. [Platina Data](ebook/Platina Data.pdf) - Keigo Higashino (2025)
 10. [No Longer Human](ebook/No Longer Human.pdf) - Osamu Dazai (2026)
-11. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Azzahra Vertikaputri (2026)
+11. [Ringkasan UGC](ebook/Ringkasan UGC .pdf) - Azzahra Vertikaputri (2026)
 
 *Powered by GitHub Pages*
