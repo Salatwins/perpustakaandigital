@@ -1,5 +1,5 @@
 # Digital Library
-Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital Azzahra Vertikaputri 13040124120038
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Pangeran Cilik](ebook/Pangeran Cilik.pdf) - Antoine de Saint-Exupéry (2015)
@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Black Showman dan Pembunuhan di Kota Tak Bernama](ebook/Black Showman dan Pembunuhan di Kota Tak Bernama.pdf) - Keigo Higashino (2021)
 9. [Platina Data](ebook/Platina Data.pdf) - Keigo Higashino (2025)
 10. [No Longer Human](ebook/No Longer Human.pdf) - Osamu Dazai (2026)
+11. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Azzahra Vertikaputri (2026)
 
 *Powered by GitHub Pages*
